@@ -1,0 +1,10 @@
+.spinner-grow{
+    border:4px inherit blue;
+    height:290px;
+    width:290px;
+}
+.spinner-border{
+    border:4px inherit blue;
+    height:390px;
+    width:390px;
+}
